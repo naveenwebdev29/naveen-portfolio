@@ -1,0 +1,2 @@
+Replace this folder's contents: add your actual resume PDF here and name it "resume.pdf"
+(referenced in app.ts as resumeUrl = 'assets/resume.pdf' — update the path if you name it differently).
