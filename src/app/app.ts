@@ -41,7 +41,7 @@ interface NavSection {
 })
 export class App implements OnInit, OnDestroy {
   // ---------------- Identity ----------------
-  name = 'Kumar Naveen';
+  name = 'Naveen Kumar';
   initials = 'NK';
   role = 'Full Stack Software Developer';
   headlineLine1 = 'Building Reliable';
