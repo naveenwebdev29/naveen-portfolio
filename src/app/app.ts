@@ -52,7 +52,7 @@ export class App implements OnInit, OnDestroy {
   phone = '+91-9953418617';
   location = 'New Delhi, India';
   noticePeriod = '1 Month';
-  resumeUrl = 'resume.pdf';
+  resumeUrl = 'Naveen-web-dev-resume.pdf';
   profileImageUrl = 'profile.png';
 
   socials = [
